@@ -3,7 +3,7 @@
     padding:0;
 }
 
-.sidebar > ul > li > img, .header-top > img {
+.sidebar > ul > li > img, .header-top > img, .welcome-message > img {
     height:auto;
 }
 
@@ -11,7 +11,11 @@
     width:25px;
 }
 
-.header-top > img {
+#welcome-img {
+    width:60px;
+}
+
+.header-top > img, .welcome-message > img {
     width:45px;
     border:1px solid black;
     border-radius:50%;
