@@ -13,6 +13,10 @@ ul, li {
     gap:5px;
 }
 
+body {
+    grid-template-columns:1fr 2fr;
+}
+
 ul {
     flex-direction:column;
 }
