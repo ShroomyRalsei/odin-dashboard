@@ -3,7 +3,7 @@
     padding:0;
 }
 
-.sidebar > ul > li > img {
+.sidebar > ul > li > img, .header-top > img {
     width:25px;
     height:auto;
 }
