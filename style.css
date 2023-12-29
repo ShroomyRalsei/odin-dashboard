@@ -32,7 +32,7 @@ ul {
     padding:3vh 3vw;
 }
 
-body, .sidebar, .body-right, .header {
+body, .sidebar, .body-right, .header-top, .header {
     display:grid;
 }
 
