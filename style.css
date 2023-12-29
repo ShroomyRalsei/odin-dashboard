@@ -40,3 +40,7 @@ li {
     list-style-type:none;
     align-items:center;
 }
+
+.header {
+    grid-template:repeat(2, 1fr) / 1fr;
+}
