@@ -14,8 +14,8 @@
     gap:40px;
 }
 
-li{
+li {
     list-style-type:none;
-    display:flex;
+    align-items:center;
     gap:5px;
 }
