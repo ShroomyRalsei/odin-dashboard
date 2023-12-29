@@ -25,7 +25,7 @@
     grid-template:1fr 5fr / 1fr;
 }
 
-ul, li, .welcome-message, .button-container {
+ul, li, .welcome-message, .button-container, .trending-user {
     display:flex;
     gap:5px;
 }
