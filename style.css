@@ -75,6 +75,7 @@ li, .header-top, .welcome-message {
 
 .content {
     grid-template:repeat(2, 1fr) / 5fr 2fr;
+    row-gap:10px;
 }
 
 .header {
