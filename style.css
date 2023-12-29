@@ -49,6 +49,7 @@ ul {
     grid-template:50px repeat(2, 1fr) / 1fr;
     gap:40px;
     padding:3vh 3vw;
+    max-height:100vh;
 }
 
 body, .sidebar, .body-right, .header-top, .header, .header-bottom {
