@@ -62,12 +62,14 @@ body, .sidebar, .body-right, .header-top, .header, .header-bottom, .content, .tr
 
 li {
     list-style-type:none;
+}
+
+li, .header-top, .welcome-message {
     align-items:center;
 }
 
 .header-top {
     grid-template-columns: 50px 7fr repeat(2, 50px) 3fr;
-    align-items:center;
     gap:15px;
 }
 
