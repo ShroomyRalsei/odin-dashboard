@@ -95,7 +95,6 @@ li, .header-top, .welcome-message {
 
 input[type="search"] {
     appearance:none;
-    border:1px solid grey;
     border-radius:6px;
     padding:5px;
 }
@@ -148,4 +147,15 @@ p {
 
 h1, h2, h3 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.button-container > button {
+    background-color:#f87171;
+    padding:8px 32px;
+    font-size:1.5rem;
+    border-radius:10px;
+}
+
+.button-container > button, input[type="search"] {
+    border:1px solid grey;
 }
