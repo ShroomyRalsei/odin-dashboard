@@ -140,3 +140,11 @@ input[type="search"] {
 .trending {
     grid-auto-rows:70px;
 }
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
