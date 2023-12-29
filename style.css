@@ -27,6 +27,7 @@
 
 .body-right {
     grid-template:1fr 5fr / 1fr;
+    padding-left:25vw;
 }
 
 ul, li, .welcome-message, .button-container, .trending-user {
@@ -35,7 +36,7 @@ ul, li, .welcome-message, .button-container, .trending-user {
 }
 
 body {
-    grid-template-columns:1fr 3fr;
+    grid-template-columns:1fr;
     background-color:gainsboro;
 }
 
@@ -54,6 +55,8 @@ ul {
     gap:40px;
     padding:3vh 3vw;
     background-color:#f87171;
+    position:fixed;
+    width:19vw;
 }
 
 body, .sidebar, .body-right, .header-top, .header, .header-bottom, .content, .trending, .announcements, .projects {
