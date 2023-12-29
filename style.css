@@ -56,7 +56,7 @@ ul {
     background-color:red;
 }
 
-body, .sidebar, .body-right, .header-top, .header, .header-bottom, .content, .trending, .announcements {
+body, .sidebar, .body-right, .header-top, .header, .header-bottom, .content, .trending, .announcements, .projects {
     display:grid;
 }
 
