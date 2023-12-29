@@ -8,6 +8,15 @@
     height:auto;
 }
 
+ul, li {
+    display:flex;
+    gap:5px;
+}
+
+ul {
+    flex-direction:column;
+}
+
 .sidebar {
     display:grid;
     grid-template:50px repeat(2, 1fr) / 1fr;
@@ -17,5 +26,4 @@
 li {
     list-style-type:none;
     align-items:center;
-    gap:5px;
 }
