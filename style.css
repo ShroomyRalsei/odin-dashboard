@@ -52,7 +52,7 @@ ul {
     background-color:red;
 }
 
-body, .sidebar, .body-right, .header-top, .header, .header-bottom, .content {
+body, .sidebar, .body-right, .header-top, .header, .header-bottom, .content, .trending, .announcements {
     display:grid;
 }
 
