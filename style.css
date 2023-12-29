@@ -41,6 +41,10 @@ li {
     align-items:center;
 }
 
+.header-top {
+    grid-template-columns: 1fr 8fr repeat(2, 1fr) 2fr;
+}
+
 .header {
     grid-template:repeat(2, 1fr) / 1fr;
 }
