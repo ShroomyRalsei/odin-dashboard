@@ -8,6 +8,10 @@
     height:auto;
 }
 
+.body-right {
+    grid-template:1fr 5fr / 1fr;
+}
+
 ul, li {
     display:flex;
     gap:5px;
