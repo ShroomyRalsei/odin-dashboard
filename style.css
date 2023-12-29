@@ -10,4 +10,6 @@
 
 .sidebar {
     display:grid;
+    grid-template:50px repeat(2, 1fr) / 1fr;
+    gap:40px;
 }
