@@ -82,6 +82,7 @@ li, .header-top, .welcome-message {
 .header {
     grid-template:repeat(2, 1fr) / 1fr;
     gap:20px;
+    padding:20px;
 }
 
 .header, .trending-user, .announcements > div, .project-card {
