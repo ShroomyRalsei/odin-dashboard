@@ -41,7 +41,7 @@ ul {
     padding:3vh 3vw;
 }
 
-body, .sidebar, .body-right, .header-top, .header {
+body, .sidebar, .body-right, .header-top, .header, .header-bottom {
     display:grid;
 }
 
