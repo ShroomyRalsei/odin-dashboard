@@ -28,7 +28,7 @@ ul {
     padding:3vh 3vw;
 }
 
-body, .sidebar {
+body, .sidebar, .body-right {
     display:grid;
 }
 
