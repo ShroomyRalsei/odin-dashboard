@@ -78,6 +78,9 @@ li {
 .header {
     grid-template:repeat(2, 1fr) / 1fr;
     gap:20px;
+}
+
+.header, .trending-user, .announcements > div {
     background-color:whitesmoke;
 }
 
