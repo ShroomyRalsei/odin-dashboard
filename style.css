@@ -110,3 +110,7 @@ input[type="search"] {
 .announcements > div:nth-last-child(1) {
     border:none;
 }
+
+.trending > h2 {
+    max-height:6px;
+}
