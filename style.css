@@ -62,4 +62,5 @@ input[type="search"] {
     appearance:none;
     border:1px solid grey;
     border-radius:6px;
+    padding:5px;
 }
