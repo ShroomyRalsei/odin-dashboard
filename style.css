@@ -53,7 +53,7 @@ ul {
     grid-template:50px 1fr 4fr / 1fr;
     gap:40px;
     padding:3vh 3vw;
-    background-color:red;
+    background-color:#f87171;
 }
 
 body, .sidebar, .body-right, .header-top, .header, .header-bottom, .content, .trending, .announcements, .projects {
@@ -85,7 +85,7 @@ li, .header-top, .welcome-message {
 }
 
 .header, .trending-user, .announcements > div, .project-card {
-    background-color:whitesmoke;
+    background-color:#fbbf24;
 }
 
 .header-bottom {
