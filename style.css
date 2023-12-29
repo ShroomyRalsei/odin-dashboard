@@ -7,3 +7,7 @@
     width:25px;
     height:auto;
 }
+
+.sidebar {
+    display:grid;
+}
