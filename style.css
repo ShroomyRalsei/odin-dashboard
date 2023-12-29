@@ -55,3 +55,9 @@ li {
 .header {
     grid-template:repeat(2, 1fr) / 1fr;
 }
+
+input[type="search"] {
+    appearance:none;
+    border:1px solid grey;
+    border-radius:6px;
+}
