@@ -50,6 +50,7 @@ ul {
     gap:40px;
     padding:3vh 3vw;
     max-height:100vh;
+    background-color:red;
 }
 
 body, .sidebar, .body-right, .header-top, .header, .header-bottom {
@@ -70,6 +71,7 @@ li {
 .header {
     grid-template:repeat(2, 1fr) / 1fr;
     gap:20px;
+    background-color:whitesmoke;
 }
 
 .header-bottom {
