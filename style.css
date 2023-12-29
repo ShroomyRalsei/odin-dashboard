@@ -102,3 +102,11 @@ input[type="search"] {
 .trending > div, .announcements > div {
     padding:10px 40px;
 }
+
+.announcements > div {
+    border-bottom:1px solid black;
+}
+
+.announcements > div:nth-last-child(1) {
+    border:none;
+}
