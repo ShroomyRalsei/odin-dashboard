@@ -35,6 +35,11 @@ body {
     background-color:gainsboro;
 }
 
+.button-container {
+    align-items:center;
+    justify-content: space-evenly;
+}
+
 ul {
     flex-direction:column;
 }
