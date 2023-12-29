@@ -49,7 +49,6 @@ ul {
     grid-template:50px repeat(2, 1fr) / 1fr;
     gap:40px;
     padding:3vh 3vw;
-    max-height:100vh;
     background-color:red;
 }
 
