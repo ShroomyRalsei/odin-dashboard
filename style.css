@@ -3,12 +3,16 @@
     padding:0;
 }
 
-.sidebar > ul > li > img, .header-top > img, .welcome-message > img, .trending-user > img {
+.sidebar > ul > li > img, .header-top > img, .welcome-message > img {
     height:auto;
 }
 
 .sidebar > ul > li > img {
     width:25px;
+}
+
+.trending-user > img {
+    height:45px;
 }
 
 #welcome-img {
