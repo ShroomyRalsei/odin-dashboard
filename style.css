@@ -114,6 +114,13 @@ input[type="search"] {
     border:none;
 }
 
-.trending > h2 {
-    max-height:6px;
+.trending > h2, .projects > h2 {
+    max-height:0;
+    padding:0;
+    margin:0;
+}
+
+.trending, .projects {
+    grid-template-rows:1.7rem;
+    grid-auto-rows:1fr;
 }
