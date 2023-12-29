@@ -13,3 +13,7 @@
     grid-template:50px repeat(2, 1fr) / 1fr;
     gap:40px;
 }
+
+li{
+    list-style-type:none;
+}
