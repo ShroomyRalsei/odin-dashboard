@@ -21,6 +21,7 @@ ul {
     display:grid;
     grid-template:50px repeat(2, 1fr) / 1fr;
     gap:40px;
+    padding:3vh 3vw;
 }
 
 li {
