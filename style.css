@@ -67,6 +67,10 @@ li {
     gap:15px;
 }
 
+.content {
+    grid-template:repeat(2, 1fr) / 5fr 2fr;
+}
+
 .header {
     grid-template:repeat(2, 1fr) / 1fr;
     gap:20px;
