@@ -3,7 +3,7 @@
     padding:0;
 }
 
-.sidebar > ul > li > img, .header-top > img, .welcome-message > img {
+.sidebar > ul > li > img, .header-top > img, .welcome-message > img, .trending-user > img {
     height:auto;
 }
 
@@ -15,7 +15,7 @@
     width:60px;
 }
 
-.header-top > img, .welcome-message > img {
+.header-top > img, .welcome-message > img, .trending-user > img {
     width:45px;
     border:1px solid black;
     border-radius:50%;
