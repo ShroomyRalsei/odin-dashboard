@@ -4,8 +4,15 @@
 }
 
 .sidebar > ul > li > img, .header-top > img {
-    width:25px;
     height:auto;
+}
+
+.sidebar > ul > li > img {
+    width:25px;
+}
+
+.header-top > img {
+    width:45px;
 }
 
 .body-right {
